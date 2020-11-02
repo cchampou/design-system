@@ -1,0 +1,9 @@
+{
+  "name": "design-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cchampou/design-system.git",
+  "author": "cchampou <clement@champouillon.com>",
+  "license": "MIT",
+  "private": true
+}
