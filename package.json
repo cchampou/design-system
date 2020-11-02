@@ -5,5 +5,9 @@
   "repository": "git@github.com:cchampou/design-system.git",
   "author": "cchampou <clement@champouillon.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
